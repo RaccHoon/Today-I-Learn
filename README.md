@@ -9,7 +9,7 @@
 * AI 해커톤
 
 ### 이번주 계획
-* [현재 계획](https://github.com/RaccHoon/Today-I-Learn/blob/main/schedule/2023.4.17~2023.4.23.md)
+* [현재 계획](https://github.com/RaccHoon/Today-I-Learn/blob/main/schedule/2023.4.24~2023.4.30.md)
 
 ### TIL
 * [2023-4-7 금요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-7.md)
