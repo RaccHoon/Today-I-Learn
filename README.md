@@ -27,3 +27,5 @@
 * [2023-4-19 수요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-19.md)
 * [2023-4-20 목요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-20.md)
 * [2023-4-21 금요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-21.md)
+* [2023-4-27 목요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-27.md)
+* [2023-4-28 금요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-28.md)
