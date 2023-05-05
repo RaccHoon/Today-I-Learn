@@ -5,11 +5,11 @@
 ### 최근 관심사
 * PS  
 * Spring / Java / OOP  
-* 창업 준비 큰파도
+* 독서
 * AI 해커톤
 
 ### 이번주 계획
-* [현재 계획](https://github.com/RaccHoon/Today-I-Learn/blob/main/schedule/2023.4.24~2023.4.30.md)
+* [현재 계획](https://github.com/RaccHoon/Today-I-Learn/blob/main/schedule/2023.5.1~2023.5.7.md)
 
 ### TIL
 * [2023-4-7 금요일](https://github.com/RaccHoon/Today-I-Learn/blob/main/content/2023-4-7.md)
